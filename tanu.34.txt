@@ -1,0 +1,19 @@
+#a=input("enter your age")
+#a= int (a)
+#print(a>32)
+
+#b=input ("enter your percentage")
+#b=float(b)
+#print(b>78.78)
+
+#c=input ("enter you height") 
+#c=float(c)
+#print(c>5.7)
+
+amount = int(input("enter your amount: "))
+interest_rate = float(input("enter your interest rate: "))
+time = int(input("enter time in day like 1 to 31: "))
+
+interest = (amount * interest_rate * time) / 500
+
+print(f"you have to pay {interest}/- in {time} days.")
