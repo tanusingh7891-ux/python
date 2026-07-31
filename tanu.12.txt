@@ -1,0 +1,4 @@
+print ("Hello")
+print('hello')
+print("345")
+print("tanu singh")
