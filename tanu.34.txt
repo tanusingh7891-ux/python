@@ -14,36 +14,44 @@
 #interest_rate = float(input("enter your interest rate: "))
 #time = int(input("enter time in day like 1 to 31: "))
 
-#interest = (amount * interest_rate * time) / 500
+#interest = (amount *interest_rate* time) / 500
 
 #print(f"you have to pay {interest}/- in {time} days.")
  
 #if false;
 
 #if age >= 18 :
-# print ("yes you can voae.")
-# print ("yes you can voae.")
+#print ("yes you can voae.")
+#print ("yes you can voae.")
 
 #else:
- #print (" NO yes you can voae.")
- #print (" NO yes you can voae.")
+#print (" NO yes you can voae.")
+#print (" NO yes you can voae.")
 
 #Greater Then
-print(5 > 10)
+#print(5 > 4)
 
 #Less Then
-print(50 < 10)
+#print(50 < 50)
 
 #== Double =
-print(18 == 8)
+#print(18 == 18)s
 
 #!= Not =
-print(18 != 18)
+#print(18 != 18)
 
 #>= Greater Then = 
-print( 18 >= 18 )
+#print( 20 >= 18 )
 
 #>= Less Then = 
-a = 18 <= 18
-print(a)
+#a = 18 <= 18
+#print(a)
+
+#print(a)
+#print( type(a) )
+#a = int(a)
+#print( type(a) )
+#print(a)
+
+
 

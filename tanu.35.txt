@@ -1,0 +1,110 @@
+#score= int(input("Enter your math number" ))
+#if score>40:
+# print("you have passed the math exam")
+#else:
+ #print("you have failed passed tha math exam" ) 
+
+#number= int (input("enter a number"))
+#if number>0:
+ #print("pojetive")
+#else:
+ #print("negative")
+
+#if number % 2 == 0 :
+ #print("Yes It's divided by 5")
+#else:
+ #print("No It's not divided by 5")
+
+#number = int(input("Enter A Number: " ))
+
+#if number % 8== 0 :
+ #print("Even Number.")
+#else:
+ #print("Odd Number.")
+
+"""a=-12
+if a<0:
+ print("nagative")
+elif a>0:
+ print("pojetive")
+else:
+ print(0)"""
+
+"""a= input("enter a number")
+if a=="1":
+ print("monday")
+
+elif a=="2":
+ print("tuesday")
+
+elif a=="3":
+ print("wednesday")
+
+elif a=="4":
+ print("thursday")
+
+elif a=="5":
+ print("friday")
+
+elif a=="6":
+ print("saturday")
+
+elif a=="7":
+ print("sunday")
+
+else:
+ print("invilid number")"""
+
+"""a=input("enter a number")
+a=int(a)
+if a==1:
+ print("jan. 31")
+
+elif a==2:
+ print("feb.29")
+
+elif a==3:
+ print("mar.31")
+
+elif a==4:
+ print("apr.30")
+
+elif a==5:
+ print("may 31") 
+
+elif a==6:
+ print("jun 30")
+
+elif a==7:
+ print("july 31")
+
+elif a==8:
+ print("aug. 30")
+
+elif a==9:
+ print("sep. 31")
+
+elif a==10:
+ print("oct. 30")
+
+elif a==11:
+ print("nov.31")
+ 
+elif a==12:
+ print("dec.30")
+
+else:
+ print("invelid....")"""
+
+
+
+charcter = int(input("A E I O U " ))
+print("enter a charcter:")
+
+if a=t
+ print(yes)
+
+else
+ print(No)
+
+
